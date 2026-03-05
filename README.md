@@ -57,11 +57,9 @@ A simple QR Code component focused on **layout and CSS styling**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devdiegorosa&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdiegorosa&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devdiegorosa&theme=tokyonight)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devdiegorosa&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
